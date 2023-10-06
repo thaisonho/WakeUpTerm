@@ -5,7 +5,7 @@ A python script that prints ascii art whenever you open the terminal
 ## Description
 
 This Python script will print an ASCII image whenever you open your terminal. You have to manually adding your favorite image to the script. 
-*I will adding automatic adding ASCII image in the future :)*
+*I will adding automatically adding ASCII image function in the future :)*
 
 ## How to use it
 
